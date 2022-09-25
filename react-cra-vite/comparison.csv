@@ -1,0 +1,5 @@
+Bundle Management, Action, Time
+Webpack, Build, +- 8s
+Vite, Build, +- 2.8s
+Webpack, Run Dev, +- 6s
+Vite, Run Dev, +- 5ms
