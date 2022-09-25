@@ -1,0 +1,5 @@
+Lazy Load Type, Route, Lazy Component Lazy, Main Bundle Size, src_pages_*.chunk.js Size
+Route, x, x, compressed: 439 kB | real: 2.8 MB, -
+Route, v, x, compressed: 406 kB | real: 1.9 MB, compressed: 8.2 kB | real: 137 KB
+Component, v, x, compressed: 406 kB | real: 1.9 MB, compressed: 8.0 kB | real: 189 KB
+Component, v, v, compressed: 406 kB | real: 1.9 MB, compressed: 3.3 kB | real: 27 KB
